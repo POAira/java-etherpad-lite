@@ -20,8 +20,9 @@ Add this to your maven pom:
     <version>1.2.13</version>
 </dependency>
 ```
-### TRAVIS CI###
-https://travis-ci.com/POAira/java-etherpad-lite.svg?branch=master
+### TRAVIS CI ###
+
+[![Travis Status](https://travis-ci.com/POAira/java-etherpad-lite.svg?branch=master)
 
 ### COVERAGE ###
 [![Coverage Status](https://coveralls.io/repos/github/POAira/java-etherpad-lite/badge.svg?branch=master)](https://coveralls.io/github/POAira/java-etherpad-lite?branch=master)
