@@ -22,7 +22,7 @@ Add this to your maven pom:
 ```
 ### TRAVIS CI ###
 
-[![Travis Status](https://travis-ci.com/POAira/java-etherpad-lite.svg?branch=master)
+[![Travis Status](https://travis-ci.com/POAira/java-etherpad-lite.svg?branch=master)]
 
 ### COVERAGE ###
 [![Coverage Status](https://coveralls.io/repos/github/POAira/java-etherpad-lite/badge.svg?branch=master)](https://coveralls.io/github/POAira/java-etherpad-lite?branch=master)
