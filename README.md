@@ -21,6 +21,12 @@ Add this to your maven pom:
 </dependency>
 ```
 
+#COVERAGE
+[![Coverage Status](https://coveralls.io/repos/github/POAira/java-etherpad-lite/badge.svg?branch=master)](https://coveralls.io/github/POAira/java-etherpad-lite?branch=master)
+
+
+
+
 ### DOCUMENTATION ###
 For now, the best documentation is reading through the methods available in the
 [EPLiteClient class](https://raw.githubusercontent.com/nilsfr/java-etherpad-lite/master/src/main/java/net/gjerull/etherpad/client/EPLiteClient.java)
